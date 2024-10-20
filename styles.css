@@ -1,0 +1,10 @@
+.timer * {
+    display: inline-block;
+}
+.timer img {
+    margin-right: 20px;
+}
+.timer {
+    display: flex;
+    text-align: center;
+}
